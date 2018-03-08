@@ -1,0 +1,380 @@
+
+= MindBoard Pro User Guide
+
+== Introduction
+
+image::screenshots/mindboard-pro-overview.png[MindBoard Pro]
+
+
+=== Overview
+
+MindBoard Pro is a simple handwriting visual thinking application for Android tablets.
+
+
+=== Key Features
+
+* Directly channel your thoughts using Stylus and Finger
+* Collapsing and Expanding Branches
+* Multiple pen colors and thicknesses
+* PDF Export ( _Premium Subscription_ )
+* Sync Documents between multiple android devices with Google Drive ( _Premium Subscription_ )
+
+
+=== Requirements
+
+* Android 4.4 Kitkat or newer.
+* An Android tablet with S-Pen support
+
+
+[NOTE]
+This app is designed for the Digitizer Stylus such as S-Pen. +
+If your android device does not have it, check the *S-Pen Mode* item *off* in the Global Settings.
+
+
+=== Installation
+
+Get the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard Pro for S-Pen] app on Google Play.
+
+
+=== Getting help
+
+If you have any questions, please https://www.mindboardapps.com/contact.html[make contact].
+And also your feedback will be much appreciated.
+
+To get update information, see 
+https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard/[Twitter].
+
+
+== Using MindBoard Pro
+
+=== Overview
+
+There are four screens.
+
+* (1) Editor
+* (2) File Manager
+* (3) Settings
+** Current Page Settings
+** Global Settings 
+
+
+=== (1) Editor
+
+This is for mind-mapping.
+
+There are two modes in Editor. +
+One is *(A) Map Edit Mode*, another is *(B) Node Edit Mode*.
+
+* In Map Edit Mode, you can edit node strucutre.
+* In Node Edit Mode, you can edit node contents.
+
+
+==== (A) Map Edit Mode
+
+image::screenshots/map-edit-mode.png[Map Edit Mode]
+
+===== ActionBar
+
+* image:icons/gp_grid.png[Go To File Manager] Go to File Manager
+* image:icons/gp_new.png[New Document] Add New Document
+* image:icons/gp_export.png[Export Document] Export as PNG or PDF
+* image:icons/gp_settings.png[Settings] Current Page Settings
+** See *(3) Settings* section in this document.
+* image:icons/gp_fullscreen.png[Fullscreen] Fullscreen
+
+===== Edit Toolbar
+
+image::screenshots/edit-toolbar.png[Edit Toolbar]
+
+* Add Center Nodes
+* Delete Nodes
+* Collapse / Expand Nodes
+* Undo
+* Redo
+
+
+===== Add Child Nodes
+
+1. Tap a node. This node is selected.
+2. Drag a handle of this node with Finger.
+
+image::screenshots/child-node-create-handle.png[Child node create handle]
+
+
+===== Add New Center Nodes
+
+1. Tap the *Add Center Node Button* on the Edit Toolbar.
+
+
+===== Resize Center Nodes
+
+1. Tap a center node. The resize handles appears in this center node corners.
+2. Drag this resize handle with Finger.
+
+
+===== Change Structure
+
+1. Choose a child node to change structure. The node change handle appears on the branch.
+2. Drag the node change handle and drop it into another node.
+
+image::screenshots/moving-node-steps.png[Change the node structure]
+
+
+===== Change Branch Color
+
+1. Tap a node. This node is selected.
+2. Choose the *Color Button* on the Branch Color Toolbar.
+
+
+===== Enter in Node Edit Mode
+
+1. Tap a node with Finger. This node is selected.
+2. Tap this selected node again with Finger. Enter in Node Edit Mode.
+
+You can also use other ways to enter in Node Edit Mode : 
+
+* Double tap a node with Finger.
+* Long press a node with Stylus.
+
+
+===== Export current active document as PNG or PDF
+
+1. Tap the image:icons/gp_export.png[Export PNG or PDF] *Export Button* on ActionBar
+2. The PNG/PDF Export Dialog opens.
+
+image::screenshots/png-pdf-export-dialog.png[Export dialog]
+
+////
+You can export active document to PNG / PDF.
+////
+
+[NOTE]
+The PDF export needs Premium Subscription. +
+In details, see the *Premium Subscription* Section in this document.
+
+
+
+
+==== (B) Node Edit Mode
+
+image::screenshots/node-edit-mode.png[Node Edit Mode]
+
+
+===== Tool Switch Toolbar
+
+image::screenshots/node-edit-mode-tool-switcher.png[Tool Switch Toolbar]
+
+* Pen-1
+* Pen-2
+* Pen-3
+* Eraser
+
+===== Edit Toolbar
+
+image::screenshots/node-edit-mode-edit-toolbar.png[Edit Toolbar]
+
+* Delete Group
+* Undo
+* Redo
+* Paste Group
+
+
+===== Back to Map Edit mode
+
+1. Tap the *Close Button* on the right top corner.
+
+
+===== Change Pen Color
+
+1. Double tap the *Pen Button* on Tool Switch Toolbar.
+2. The Pen Color Change Dialog opens.
+
+image::screenshots/pen-settings-dialog.png[Pen Settings Dialog]
+
+
+=== (2) File Manager
+
+This is for document management.
+
+image::screenshots/file-manager-overview.png[File Manager]
+
+==== ActionBar
+
+* image:icons/gp_editor.png[Go Back to Editor] Go Back to Editor
+* Search Documents
+* image:icons/gp_new.png[New Document] Add New Documents
+* image:icons/mb_import.png[Import ocuments] Import Documents
+* image:icons/gp_reset.png[Delete Documents] Delete All Documents in the Trashcan Folder.
+* image:icons/gp_settings.png[Settings] Global Settings
+** See *(3) Settings* Section in this document.
+
+
+==== SideBar
+
+image::screenshots/file-manager-sidebar.png[Sidebar]
+
+* image:icons/mb_primary_folder.png[Primary Folder] Primary Folder
+* image:icons/mb_archive_folder.png[Archive Folder] Archive Folder
+* image:icons/mb_trashcan_folder.png[Trashcan Folder] Trashcan Folder
+
+
+==== List Item
+
+image::screenshots/file-manager-list-item-menu.png[List Item Menu]
+
+* Sync
+* image:icons/gp_pin.png[Pin Document] Pin 
+* image:icons/gp_menu.png[Menu] Menu
+
+
+==== Menu image:icons/gp_menu.png[Menu]
+
+image::screenshots/popup-menu.png[Import Export Document and Settings]
+
+* Edit Title
+* Make A Copy
+* Move to Archive
+* Move to Trashcan
+* Export ... Export document into somewhere(e.g. Google Drive).
+
+
+=== (3) Settings
+
+==== Current Page Settings
+
+image::screenshots/current-page-settings.png[Current Page Settings]
+
+===== Colors
+
+* Pen-1
+* Pen-2
+* Pen-3
+* Branch
+* Background
+
+===== Reset
+
+* Reset to default values
+
+
+===== Premium
+
+* Get Premium Subscription
+** See the *Premium Subscription* Section in this document.
+
+
+==== Global Settings
+
+This is for Application Global Settings.
+
+image::screenshots/global-settings.png[Global Settings]
+
+
+===== File Sync Service
+
+* Google Drive
+* Google Account
+* Sycn Frequency
+
+
+===== Theme
+
+Check theme items that you want to use on. 
+
+* Whiteboard
+* Blackboard
+* Autumn
+
+[NOTE]
+Under mulitple themes is checked, you can choose one when create new document.
+
+
+===== Edit Theme
+
+You can customize themes settings.
+
+* Whiteboard
+* Blackboard
+* Autumn
+
+
+[NOTE]
+Edit Theme needs Premium Subscription.
+
+
+===== Toolbar Location
+
+You can change the *Edit Toolbars* location *Left* or *Right* side.
+
+* Map Edit Toolbar
+* Node Edit Toolbar
+
+
+===== Map
+
+* NodeHandleSize
+
+////
+* Branch Renderer (Experimental)
+////
+
+
+===== S-Pen
+
+* S-Pen Mode
+** Check this item off if your android device does not have stylus support.
+
+* Calibration X and Y coordinate
+** If you use another style such as Wacom Bamboo Stylus feel or any other S-Pen compatible stylus, this option is useful.
+
+
+===== File Manager
+
+* Sort Order for documents
+
+===== Misc.
+
+* Status Bar
+** Make Status Bar Show or Hide.
+
+
+
+== Additional Information
+
+=== Premium Subscription 
+
+This app is free. +
+But additional useful features are provided with Premium Subscription.
+If you like this app, please consider to get Premium Subscription and support this app better.
+
+
+==== Additinal useful features for Premium
+
+For now, there are 3 features with Premium Subscription.
+
+* Unlimited File Sync Service
+* PDF export
+* Theme Edit
+
+
+==== How to get Premium Subscription 
+
+(1) Go to the Editor Screen.
+
+(2) Tap the image:icons/gp_settings.png[Settings] *Settings Button*. The Settings screen opens.
+
+image::screenshots/current-page-settings.png[Current Page Settings]
+
+(3) Tap image:icons/gp_premium.png[Premium] the *Get Premium Subscription* item.
+
+image::screenshots/get-premium-subscription.png[Get Premium Subscription]
+
+(4) The Premium Subscription Dialog opens and get it.
+
+
+==== Canceling the Premium Subscription
+
+(1) Go to the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard Pro for S-Pen] on your Android phone or tablet.
+
+(2) Tap the Subscription *Cancel* Button.
+

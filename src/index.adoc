@@ -1,0 +1,16 @@
+= MindBoard Pro User Guide
+Tomoaki Oshima <https://www.mindboardapps.com/>
+:doctype: book
+:source-highlighter: coderay
+:toc: left
+:sectnums:
+:sectanchors:
+:icons: font
+:imagesdir: images
+
+This document explains MindBoard Pro Version 2.8.5.
+
+[NOTE]
+link:mindboard-pro-user-guide.pdf[User Guide (PDF format)]
+
+include::user-guide.adoc[]

@@ -56,6 +56,7 @@ There are four screens.
 * (3) Settings
 ** Current Page Settings
 ** Global Settings 
+*** Theme Editor
 
 
 === (1) Editor
@@ -291,7 +292,8 @@ Under mulitple themes is checked, you can choose one when create new document.
 
 ===== Edit Theme
 
-You can customize themes settings.
+You can customize themes default settings. +
+See details *Theme Ediotr* Section in this document.
 
 * Whiteboard
 * Blackboard
@@ -336,6 +338,35 @@ You can change the *Edit Toolbars* location *Left* or *Right* side.
 
 * Status Bar
 ** Make Status Bar Show or Hide.
+
+
+=== Theme Editor
+
+You can change default theme color settings.
+
+image::screenshots/theme-editor.png[Theme Editor Main]
+
+==== Color Settings
+
+* Pen-1 Color Scheme
+* Pen-2 Color Scheme
+* Pen-3 Color Scheme
+* Branch Color Scheme
+* Background Color
+
+===== Pen-1,2,3 Color Scheme
+image::screenshots/theme-editor-pen-color.png[Theme Editor Pen Color]
+
+===== Branch Color Scheme
+image::screenshots/theme-editor-branch-color.png[Theme Editor Branch Color]
+
+===== Background Color
+image::screenshots/theme-editor-background-color.png[Theme Editor Branch Color]
+
+==== Reset
+
+* Reset to default values
+
 
 
 

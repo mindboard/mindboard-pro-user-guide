@@ -378,7 +378,7 @@ MindBoard Pro can sync data among multiple android devices with Google Drive.
 And MindBoard Pro price model is subscription.
 
 
-=== Data Exchange MindBoard Pro / MindBoard
+=== Data Exchange MindBoard for MindBoard Pro
 
 The data format is same.
 So you can exchange data between MindBoard Pro and MindBoard with Google Drive.

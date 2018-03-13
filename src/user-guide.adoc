@@ -204,7 +204,7 @@ image::screenshots/file-manager-overview.png[File Manager]
 * image:icons/gp_editor.png[Go Back to Editor] Go Back to Editor
 * Search Documents
 * image:icons/gp_new.png[New Document] Add New Documents
-* image:icons/mb_import.png[Import ocuments] Import Documents
+* image:icons/mb_import.png[Import Documents] Import Documents
 * image:icons/gp_reset.png[Delete Documents] Delete All Documents in the Trashcan Folder.
 * image:icons/gp_settings.png[Settings] Global Settings
 ** See *(3) Settings* Section in this document.
@@ -236,7 +236,7 @@ image::screenshots/popup-menu.png[Import Export Document and Settings]
 * Make A Copy
 * Move to Archive
 * Move to Trashcan
-* Export ... Export document into somewhere(e.g. Google Drive).
+* Export ... Export Documents into somewhere(e.g. Google Drive).
 
 
 === (3) Settings
@@ -372,10 +372,23 @@ image::screenshots/theme-editor-background-color.png[Theme Editor Branch Color]
 
 == Additional Information
 
-=== Premium Subscription 
+=== The Difference between MindBoad Pro image:icons/mbp-app-icon.png[MindBoard Pro App Icon] and MindBoard image:icons/mb-app-icon.png[MindBoard App Icon]
+
+MindBoard Pro can sync data among multiple android devices with Google Drive.
+And MindBoard Pro price model is subscription.
+
+
+=== Data Exchange MindBoard Pro / MindBoard
+
+The data format is same.
+So you can exchange data between MindBoard Pro and MindBoard with Google Drive.
+In the File Manager, you can export data into Google Drive and import image:icons/mb_import.png[Import Documents] it.
+
+
+=== About Premium Subscription 
 
 This app is free. +
-But additional useful features are provided with Premium Subscription.
+But additional useful features are provided with Premium Subscription. +
 If you like this app, please consider to get Premium Subscription and support this app better.
 
 
@@ -383,9 +396,9 @@ If you like this app, please consider to get Premium Subscription and support th
 
 For now, there are 3 features with Premium Subscription.
 
-* Unlimited File Sync Service
+* Unlimited Documents Sync Service
 * PDF export
-* Theme Edit
+* Theme Editor
 
 
 ==== How to get Premium Subscription 

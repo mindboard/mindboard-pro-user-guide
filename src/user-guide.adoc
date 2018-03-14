@@ -287,7 +287,7 @@ Check theme items that you want to use on.
 * Autumn
 
 [NOTE]
-Under mulitple themes is checked, you can choose one when create new document.
+If mulitple themes are checked, you can choose one when create new document.
 
 
 ===== Edit Theme

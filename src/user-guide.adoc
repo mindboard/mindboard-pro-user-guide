@@ -378,11 +378,24 @@ MindBoard Pro can sync data among multiple android devices with Google Drive.
 And MindBoard Pro price model is subscription.
 
 
+=== Import Data from MindBoard image:icons/mb-app-icon.png[MindBoard App Icon] to MindBoard Pro image:icons/mbp-app-icon.png[MindBoard Pro App Icon]
+
+The data format is same.
+So you can import MindBoard image:icons/mb-app-icon.png[MindBoard App Icon] data.
+
+In order to import data :
+
+1. Export documents to Google Drive in File Manager of MindBoard image:icons/mb-app-icon.png[MindBoard App Icon].
+2. Import documents from Google Drive in File Manager of MindBoard Pro image:icons/mbp-app-icon.png[MindBoard Pro App Icon].
+
+
+////
 === Data Exchange MindBoard for MindBoard Pro
 
 The data format is same.
 So you can exchange data between MindBoard Pro and MindBoard with Google Drive.
 In the File Manager, you can export data into Google Drive and import image:icons/mb_import.png[Import Documents] it.
+////
 
 
 === About Premium Subscription 

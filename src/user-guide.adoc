@@ -49,7 +49,7 @@ https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard
 
 === Overview
 
-There are four screens.
+There are three main features.
 
 * (1) Editor
 * (2) File Manager

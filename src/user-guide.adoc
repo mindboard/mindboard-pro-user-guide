@@ -346,6 +346,10 @@ You can change default theme color settings.
 
 image::screenshots/theme-editor.png[Theme Editor Main]
 
+[NOTE]
+Theme Editor needs Premium Subscription.
+
+
 ==== Color Settings
 
 * Pen-1 Color Scheme

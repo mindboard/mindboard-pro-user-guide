@@ -8,7 +8,7 @@ image::screenshots/mindboard-pro-overview.png[MindBoard Pro]
 
 === Overview
 
-MindBoard Pro is a simple handwriting visual thinking application for Android tablets.
+MindBoard Pro is a visual thinking application with handwriting for Android tablets.
 
 
 === Key Features
@@ -18,6 +18,7 @@ MindBoard Pro is a simple handwriting visual thinking application for Android ta
 * Multiple pen colors and thicknesses
 * PDF Export ( _Premium Subscription_ )
 * Sync Documents between multiple android devices with Google Drive ( _Premium Subscription_ )
+* Theme Editor ( _Premium Subscription_ )
 
 
 === Requirements
@@ -292,7 +293,7 @@ If mulitple themes are checked, you can choose one when create new document.
 
 ===== Edit Theme
 
-You can customize themes default settings. +
+You can customize the default theme color settings. +
 See details *Theme Ediotr* Section in this document.
 
 * Whiteboard
@@ -342,7 +343,7 @@ You can change the *Edit Toolbars* location *Left* or *Right* side.
 
 === Theme Editor
 
-You can change default theme color settings.
+You can change the default theme color settings.
 
 image::screenshots/theme-editor.png[Theme Editor Main]
 

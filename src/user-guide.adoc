@@ -419,7 +419,7 @@ For now, there are 3 features with Premium Subscription.
 * Theme Editor
 
 
-==== How to get Premium Subscription 
+==== Get the Premium Subscription 
 
 (1) Go to the Editor Screen.
 
@@ -434,7 +434,7 @@ image::screenshots/get-premium-subscription.png[Get Premium Subscription]
 (4) The Premium Subscription Dialog opens and get it.
 
 
-==== Canceling the Premium Subscription
+==== Cancel the Premium Subscription
 
 (1) Go to the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard Pro for S-Pen] on your Android phone or tablet.
 

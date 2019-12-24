@@ -1,14 +1,20 @@
 
-= MindBoard Pro User Guide
+= MindBoard (Pro) User Guide
+
+[NOTE]
+Google has announced that https://developers.google.com/drive/android/deprecation[Google Drive App Data feature will be shutdowned in the feature]. 
+If remove App Data Folder feature from Google Drive, MindBoard (Pro) could *not keep this data sync feature any more*.
+Please considering using https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[__MindBoard 2019__] instead of __MindBoard (Pro)__ for the case.
+
 
 == Introduction
 
-image::screenshots/mindboard-pro-overview.png[MindBoard Pro]
+image::screenshots/mindboard-pro-overview.png[MindBoard (Pro)]
 
 
 === Overview
 
-MindBoard Pro is a visual thinking application with handwriting for Android tablets.
+MindBoard (Pro) is a visual thinking application with handwriting for Android tablets.
 
 
 === Key Features
@@ -24,17 +30,17 @@ MindBoard Pro is a visual thinking application with handwriting for Android tabl
 === Requirements
 
 * Android 4.4 Kitkat or newer.
-* An Android tablet with S-Pen support
+* An Android tablet with S Pen support
 
 
 [NOTE]
-This app is designed for the Digitizer Stylus such as S-Pen. +
-If your android device does not have it, check the *S-Pen Mode* item *off* in the Global Settings.
+This app is designed for the Digitizer Stylus such as S Pen. +
+If your android device does not have it, check the *S Pen Mode* item *off* in the Global Settings.
 
 
 === Installation
 
-Get the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard Pro for S-Pen] app on Google Play.
+Get the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard (Pro) for S Pen] app on Google Play.
 
 
 === Getting help
@@ -46,7 +52,7 @@ To get update information, see
 https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard/[Twitter].
 
 
-== Using MindBoard Pro
+== Using MindBoard (Pro)
 
 === Overview
 
@@ -322,13 +328,13 @@ You can change the *Edit Toolbars* location *Left* or *Right* side.
 ////
 
 
-===== S-Pen
+===== S Pen
 
-* S-Pen Mode
+* S Pen Mode
 ** Check this item off if your android device does not have stylus support.
 
 * Calibration X and Y coordinate
-** If you use another style such as Wacom Bamboo Stylus feel or any other S-Pen compatible stylus, this option is useful.
+** If you use another style such as Wacom Bamboo Stylus feel or any other S Pen compatible stylus, this option is useful.
 
 
 ===== File Manager
@@ -377,30 +383,42 @@ image::screenshots/theme-editor-background-color.png[Theme Editor Branch Color]
 
 == Additional Information
 
-=== The Differences between MindBoad Pro image:icons/mbp-app-icon.png[MindBoard Pro App Icon] and MindBoard image:icons/mb-app-icon.png[MindBoard App Icon]
+=== The Differences between __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon] and __MindBoard__ image:icons/mb-app-icon.png[MindBoard App Icon]
 
-MindBoard Pro can *sync data* among multiple android devices with Google Drive App Data. +
-And MindBoard Pro price model is subscription.
+MindBoard (Pro) can *sync data* among multiple android devices with Google Drive App Data. +
+And MindBoard (Pro) price model is subscription.
+
+[NOTE]
+Google has announced that https://developers.google.com/drive/android/deprecation[Google Drive App Data feature will be shutdowned in the feature]. 
+If remove App Data Folder feature from Google Drive, MindBoard (Pro) could *not keep this data sync feature any more*.
+Please considering using https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[__MindBoard 2019__] instead of __MindBoard (Pro)__ for the case.
+
+/////////
+[NOTE]
+You can find and get __MindBoard 2019__ app from Google Play https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[MindBoard 2019 for S Pen]. 
+
+/////////
+
+=== Export Data from __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon] to __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 Icon]
+
+These apps share the common file format.
+So you can export to __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon] data.
+
+In order to import data:
+
+1. Export a document to Google Drive in File Manager of __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon].
+2. Import a document from Google Drive in File Manager of __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon].
 
 
-=== Import Data from MindBoard image:icons/mb-app-icon.png[MindBoard App Icon] to MindBoard Pro image:icons/mbp-app-icon.png[MindBoard Pro App Icon]
+=== Import Data from __MindBoard__ image:icons/mb-app-icon.png[MindBoard App Icon] to __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon]
 
-The data format is same.
-So you can import MindBoard image:icons/mb-app-icon.png[MindBoard App Icon] data.
+These apps share the common file format.
+So you can import __MindBoard__ image:icons/mb-app-icon.png[MindBoard App Icon] data.
 
-In order to import data :
+In order to import data:
 
-1. Export documents to Google Drive in File Manager of MindBoard image:icons/mb-app-icon.png[MindBoard App Icon].
-2. Import documents from Google Drive in File Manager of MindBoard Pro image:icons/mbp-app-icon.png[MindBoard Pro App Icon].
-
-
-////
-=== Data Exchange MindBoard for MindBoard Pro
-
-The data format is same.
-So you can exchange data between MindBoard Pro and MindBoard with Google Drive.
-In the File Manager, you can export data into Google Drive and import image:icons/mb_import.png[Import Documents] it.
-////
+1. Export a document to Google Drive in File Manager of __MindBoard__ image:icons/mb-app-icon.png[MindBoard App Icon].
+2. Import a document from Google Drive in File Manager of __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon].
 
 
 === About Premium Subscription 
@@ -436,7 +454,7 @@ image::screenshots/get-premium-subscription.png[Get Premium Subscription]
 
 ==== Cancel the Premium Subscription
 
-(1) Go to the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard Pro for S-Pen] on your Android phone or tablet.
+(1) Go to the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard (Pro) for S Pen] on your Android phone or tablet.
 
 (2) Tap the Subscription *Cancel* Button.
 

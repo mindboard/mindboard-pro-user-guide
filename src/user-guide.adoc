@@ -1,20 +1,20 @@
 
-= MindBoard (Pro) User Guide
+= MindBoard User Guide
 
 [NOTE]
 Google has announced that https://developers.google.com/drive/android/deprecation[Google Drive App Data feature will be shutdowned in the feature]. 
-If remove App Data Folder feature from Google Drive, MindBoard (Pro) could *not keep this data sync feature any more*.
-Please considering using https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[__MindBoard 2019__] instead of __MindBoard (Pro)__ for the case.
+If remove App Data Folder feature from Google Drive, MindBoard could *not keep this data sync feature any more*.
+Please considering using https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[__MindBoard 2019__] instead of __this app__ for the case.
 
 
 == Introduction
 
-image::screenshots/mindboard-pro-overview.png[MindBoard (Pro)]
+image::screenshots/mindboard-pro-overview.png[MindBoard]
 
 
 === Overview
 
-MindBoard (Pro) is a visual thinking application with handwriting for Android tablets.
+MindBoard is a visual thinking application with handwriting for Android tablets.
 
 
 === Key Features
@@ -40,7 +40,7 @@ If your android device does not have it, check the *S Pen Mode* item *off* in th
 
 === Installation
 
-Get the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard (Pro) for S Pen] app on Google Play.
+Get the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard for S Pen] app on Google Play.
 
 
 === Getting help
@@ -52,7 +52,7 @@ To get update information, see
 https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard/[Twitter].
 
 
-== Using MindBoard (Pro)
+== Using MindBoard
 
 === Overview
 
@@ -383,6 +383,7 @@ image::screenshots/theme-editor-background-color.png[Theme Editor Branch Color]
 
 == Additional Information
 
+/////////
 === The Differences between __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon] and __MindBoard__ image:icons/mb-app-icon.png[MindBoard App Icon]
 
 MindBoard (Pro) can *sync data* among multiple android devices with Google Drive App Data. +
@@ -393,23 +394,39 @@ Google has announced that https://developers.google.com/drive/android/deprecatio
 If remove App Data Folder feature from Google Drive, MindBoard (Pro) could *not keep this data sync feature any more*.
 Please considering using https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[__MindBoard 2019__] instead of __MindBoard (Pro)__ for the case.
 
-/////////
-[NOTE]
-You can find and get __MindBoard 2019__ app from Google Play https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[MindBoard 2019 for S Pen]. 
-
-/////////
-
-=== Export Data from __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon] to __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 Icon]
+=== Export Data from __MindBoard__ image:icons/mbp-app-icon.png[MindBoard App Icon] to __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 Icon]
 
 These apps share the common file format.
 So you can export to __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon] data.
 
 In order to import data:
 
-1. Export a document to Google Drive in File Manager of __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon].
+1. Export a document to Google Drive in File Manager of __MindBoard__ image:icons/mbp-app-icon.png[MindBoard App Icon].
 2. Import a document from Google Drive in File Manager of __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon].
+/////////
 
 
+=== About File Format __this app__ image:icons/mbp-app-icon.png[MindBoard App Icon] and __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon]
+
+The file format of this app __MindBoard__ is called MBX.
+The MBX's default suffix is __.mbx__, and MIME Type is __application/vnd.mindboardapps.mindboard-package__.
+
+This app and __MindBoard 2019__ use same MBX file format.
+So you can transfer your data between __this app__ image:icons/mbp-app-icon.png[MindBoard App Icon]  and __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon] each other.
+
+Data transfer instruction:
+
+1. Import a document from Google Drive in File Manager of __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon].
+2. Export a document into Google Drive in File Manager of __MindBoard__ image:icons/mbp-app-icon.png[MindBoard App Icon].
+
+[NOTE]
+If not using Google Drive to transfer data, it could not keep MBX file MIME Type.
+To transfer data, you always have to use Google Drive.
+
+
+
+
+/////////
 === Import Data from __MindBoard__ image:icons/mb-app-icon.png[MindBoard App Icon] to __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon]
 
 These apps share the common file format.
@@ -419,6 +436,7 @@ In order to import data:
 
 1. Export a document to Google Drive in File Manager of __MindBoard__ image:icons/mb-app-icon.png[MindBoard App Icon].
 2. Import a document from Google Drive in File Manager of __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon].
+/////////
 
 
 === About Premium Subscription 
@@ -454,7 +472,7 @@ image::screenshots/get-premium-subscription.png[Get Premium Subscription]
 
 ==== Cancel the Premium Subscription
 
-(1) Go to the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard (Pro) for S Pen] on your Android phone or tablet.
+(1) Go to the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mbpro[MindBoard for S Pen] on your Android phone or tablet.
 
 (2) Tap the Subscription *Cancel* Button.
 

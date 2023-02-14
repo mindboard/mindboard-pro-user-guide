@@ -1,4 +1,4 @@
-= MindBoard (Pro) User Guide
+= MindBoard User Guide
 Tomoaki Oshima <https://www.mindboardapps.com/>
 :doctype: book
 :source-highlighter: coderay
@@ -8,6 +8,6 @@ Tomoaki Oshima <https://www.mindboardapps.com/>
 :icons: font
 :imagesdir: ../images
 
-This document explains MindBoard (Pro) Version 2.9.8.
+This document explains MindBoard Version 3.0.3.
 
 include::user-guide.adoc[]

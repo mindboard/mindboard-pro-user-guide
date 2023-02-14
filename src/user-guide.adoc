@@ -49,7 +49,9 @@ If you have any questions, please https://www.mindboardapps.com/contact.html[mak
 And also your feedback will be much appreciated.
 
 To get update information, see 
-https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard/[Twitter].
+https://twitter.com/mindboard/[Twitter].
+
+//https://www.facebook.com/mindboardapps[Facebook] /
 
 
 == Using MindBoard

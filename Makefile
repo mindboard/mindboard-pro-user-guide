@@ -2,14 +2,10 @@ ugAdoc:=src/user-guide.adoc
 
 html: index.html
 
-all : index.html pdf
+all : index.html
 
 index.html : src/index.adoc $(ugAdoc)
 	asciidoctor -b html src/index.adoc -o index.html
 
-pdf : mindboard-pro-user-guide.pdf
-mindboard-pro-user-guide.pdf: src/index.adoc $(ugAdoc)
-	asciidoctor -r asciidoctor-pdf -b pdf src/index-pdf.adoc -o $@
-
 clean :
-	rm -f *.pdf index.html
+	rm -f index.html

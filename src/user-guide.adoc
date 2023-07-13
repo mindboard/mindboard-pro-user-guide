@@ -1,10 +1,12 @@
 
 = MindBoard User Guide
 
+////
 [NOTE]
 Google has announced that https://developers.google.com/drive/android/deprecation[Google Drive App Data feature will be shutdowned in the feature]. 
 If remove App Data Folder feature from Google Drive, MindBoard could *not keep this data sync feature any more*.
 Please considering using https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[__MindBoard 2019__] instead of __this app__ for the case.
+////
 
 
 == Introduction
@@ -23,8 +25,9 @@ MindBoard is a visual thinking application with handwriting for Android tablets.
 * Collapsing and Expanding Branches
 * Multiple pen colors and thicknesses
 * PDF Export ( _Premium Subscription_ )
-* Sync Documents between multiple android devices with Google Drive ( _Premium Subscription_ )
 * Theme Editor ( _Premium Subscription_ )
+
+//* Sync Documents between multiple android devices with Google Drive ( _Premium Subscription_ )
 
 
 === Requirements
@@ -232,9 +235,11 @@ image::screenshots/file-manager-sidebar.png[Sidebar]
 
 image::screenshots/file-manager-list-item-menu.png[List Item Menu]
 
+////
 * Sync
 * image:icons/gp_pin.png[Pin Document] Pin 
 * image:icons/gp_menu.png[Menu] Menu
+////
 
 
 ==== Menu image:icons/gp_menu.png[Menu]
@@ -280,11 +285,13 @@ This is for Application Global Settings.
 image::screenshots/global-settings.png[Global Settings]
 
 
+////
 ===== File Sync Service
 
 * Google Drive
 * Google Account
 * Sycn Frequency
+////
 
 
 ===== Theme
@@ -452,7 +459,7 @@ If you like this app, please consider to get Premium Subscription and support th
 
 For now, there are 3 features with Premium Subscription.
 
-* Unlimited Documents Sync Service
+//* Unlimited Documents Sync Service
 * PDF export
 * Theme Editor
 

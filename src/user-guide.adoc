@@ -1,6 +1,9 @@
 
 = MindBoard User Guide
 
+[NOTE]
+2024-11-28 Great news! PDF export feature is now free for everyone. (MindBoard Version 3.1.2)
+
 ////
 [NOTE]
 Google has announced that https://developers.google.com/drive/android/deprecation[Google Drive App Data feature will be shutdowned in the feature]. 
@@ -24,7 +27,7 @@ MindBoard is a visual thinking application with handwriting for Android tablets.
 * Directly channel your thoughts using Stylus and Finger
 * Collapsing and Expanding Branches
 * Multiple pen colors and thicknesses
-* PDF Export ( _Premium Subscription_ )
+* PDF Export
 * Theme Editor ( _Premium Subscription_ )
 
 //* Sync Documents between multiple android devices with Google Drive ( _Premium Subscription_ )
@@ -52,9 +55,7 @@ If you have any questions, please https://www.mindboardapps.com/contact.html[mak
 And also your feedback will be much appreciated.
 
 To get update information, see 
-https://twitter.com/mindboard/[Twitter].
-
-//https://www.facebook.com/mindboardapps[Facebook] /
+https://x.com/mindboard/[X.com @mindboard].
 
 
 == Using MindBoard
